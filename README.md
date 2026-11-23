@@ -1,5 +1,7 @@
 # Star Player – genel dosyalar
 
+**📥 Uygulamayı indir:** [En son sürüm (APK)](https://github.com/ahmetyildiz93/star-player-genel/releases/latest)
+
 Bu depo yalnızca Star Player uygulamasının herkese açık olması gereken
 dosyalarını içerir. Uygulamanın kaynak kodu burada değildir.
 
