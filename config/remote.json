@@ -1,0 +1,22 @@
+{
+  "_aciklama": "Star Player uzaktan ayarları. Bu dosyayı GitHub'da düzenleyip kaydedin; uygulamalar bir sonraki açılışta yeni ayarları alır. Ayrıntılar: config/README.md",
+  "announcement": {
+    "active": true,
+    "title": "Star Player'a hoş geldiniz",
+    "message": "Merhaba 🙂 Uygulama ile ilgili olmasını istediğiniz özellikleri ve hataları ahmetyildiz93@protonmail.com adresinden bildirebilirsiniz."
+  },
+  "update": {
+    "latestVersionCode": 1,
+    "minVersionCode": 1,
+    "url": "",
+    "message": "Star Player'ın yeni sürümü çıktı. Yeni özellikler ve düzeltmeler için güncelleyin."
+  },
+  "stats": {
+    "enabled": false,
+    "projectId": "",
+    "apiKey": ""
+  },
+  "features": {
+    "lyrics": true
+  }
+}
